@@ -1,0 +1,2 @@
+# Stock_Market_Detection
+Stock_Market_Detection
